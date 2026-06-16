@@ -4,7 +4,7 @@ An end-to-end cloud data engineering and business intelligence solution designed
 
 ## 📊 The Problem
 High-growth digital marketing agencies frequently face scaling bottlenecks due to CRM incompatibilities and fragmented ad-channel tracking. In this scenario, maintaining an executive-ready performance dashboard previously required extensive manual CSV exports and repetitive spreadsheet manipulation. This operational friction limited real-time visibility and introduced significant risks of data latency and human error.
-
+![Legal Marketing Dashboard](image.png)
 ## 🛠️ Tech Stack & Architecture
 * **Data Ingestion:** Automated cloud routing from operational source data streams into Google Cloud.
 * **Data Warehousing:** Centralized storage using **Google BigQuery** as the core cloud data warehouse.
